@@ -1,13 +1,13 @@
 ![Header image](header.png)
 
-## About me
+## 🗣 About me
 
-I'm a Frontend Developer and UI/UX Designer.
-In my free time, I read scientific literature and do my own projects.
+👁 I'm a Frontend Developer and UI/UX Designer.
+👨‍💻 In my free time, I read scientific literature and do my own projects.
 
 ---
 
-## Languages & Tools
+## 🎓 Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,9 +31,13 @@ In my free time, I read scientific literature and do my own projects.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+
 ---
 
-## Contact me
+## 📡 Contact me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jetski_ci)
 <a href="mailto:jetskithoughts@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
