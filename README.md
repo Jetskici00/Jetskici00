@@ -2,7 +2,7 @@
 
 ## 🗣 About me
 
-👁 I'm a Frontend Developer and UI/UX Designer.
+👁 I'm a Frontend Developer and UI/UX Designer.<br />
 👨‍💻 In my free time, I read scientific literature and do my own projects.
 
 ---
